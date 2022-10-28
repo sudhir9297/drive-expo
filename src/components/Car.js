@@ -1,6 +1,6 @@
-import React, { useEffect, useRef } from "react";
+import React, { useEffect } from "react";
 import { useGLTF } from "@react-three/drei"
-import Model2 from '../assets/gtr_2.glb'
+import Model2 from '../assets/gtr_2-v1.glb'
 import { Mesh } from "three";
 import { useFrame } from "@react-three/fiber";
 
