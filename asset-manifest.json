@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sudhir9297/drive-expo/static/css/main.1d766016.css",
-    "main.js": "/sudhir9297/drive-expo/static/js/main.5bc4b524.js",
-    "index.html": "/sudhir9297/drive-expo/index.html",
-    "main.1d766016.css.map": "/sudhir9297/drive-expo/static/css/main.1d766016.css.map",
-    "main.5bc4b524.js.map": "/sudhir9297/drive-expo/static/js/main.5bc4b524.js.map"
+    "main.css": "/drive-expo/static/css/main.1d766016.css",
+    "main.js": "/drive-expo/static/js/main.5bc4b524.js",
+    "index.html": "/drive-expo/index.html",
+    "main.1d766016.css.map": "/drive-expo/static/css/main.1d766016.css.map",
+    "main.5bc4b524.js.map": "/drive-expo/static/js/main.5bc4b524.js.map"
   },
   "entrypoints": [
     "static/css/main.1d766016.css",
