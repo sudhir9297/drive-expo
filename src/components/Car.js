@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 import { useGLTF } from "@react-three/drei"
 import Model2 from '../assets/gtr_2.glb'
 import { Mesh } from "three";
-import { useFrame, useLoader } from "@react-three/fiber";
+import { useFrame } from "@react-three/fiber";
 
 /*
 author: Allay Design (https://sketchfab.com/Alister.Dsouza)
@@ -12,7 +12,6 @@ title: Nissan GTRs - Max (NFS Most Wanted BMW Version)
 */
 
 function Car(props) {
-    // const { nodes, materials } = useGLTF(Model2)
     const { scene } = useGLTF(Model2)
 
     useEffect(() => {
