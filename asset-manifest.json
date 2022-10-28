@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/drive-expo/static/css/main.0e1e538e.css",
-    "main.js": "/drive-expo/static/js/main.cf8faeb5.js",
+    "main.js": "/drive-expo/static/js/main.8266fd01.js",
     "static/media/gtr_2-v1.glb": "/drive-expo/static/media/gtr_2-v1.b598649787e278711d1f.glb",
     "index.html": "/drive-expo/index.html",
     "main.0e1e538e.css.map": "/drive-expo/static/css/main.0e1e538e.css.map",
-    "main.cf8faeb5.js.map": "/drive-expo/static/js/main.cf8faeb5.js.map"
+    "main.8266fd01.js.map": "/drive-expo/static/js/main.8266fd01.js.map"
   },
   "entrypoints": [
     "static/css/main.0e1e538e.css",
-    "static/js/main.cf8faeb5.js"
+    "static/js/main.8266fd01.js"
   ]
 }
