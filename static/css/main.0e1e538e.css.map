@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0e1e538e.css","mappings":"AAAA,EACE,QAAS,CACT,SACF,CAEA,OACE,YAAa,CACb,UACF,CAGA,KACE,iBACF","sources":["App.css"],"sourcesContent":["*{\n  margin: 0;\n  padding: 0;\n}\n\nCanvas{\n  height: 100vh;\n  width: 100%;\n}\n\n\n.App {\n  text-align: center;\n}\n"],"names":[],"sourceRoot":""}
