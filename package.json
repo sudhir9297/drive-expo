@@ -2,15 +2,15 @@
   "name": "drive-expo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sudhir9297/drive-expo",
+  "homepage": "https://sudhir9297.github.io/drive-expo",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
+    "@react-three/drei": "^9.38.0",
+    "@react-three/fiber": "^8.8.10",
+    "@react-three/postprocessing": "^2.7.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "three": "^0.146.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -22,8 +22,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {
